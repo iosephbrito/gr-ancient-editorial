@@ -1,10 +1,3 @@
-No problem — here is the **complete, intact README.md**, cleanly formatted and **ready to copy–paste** into GitHub without truncation.
-
-You can use this **verbatim**.
-
----
-
-````markdown
 # gr-ancient-editorial
 
 An extended Ancient Greek (polytonic) input method for **m17n / fcitx5**,  
