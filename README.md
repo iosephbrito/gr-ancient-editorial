@@ -105,23 +105,3 @@ Modifications and extensions:
 * © 2025
 
 See the `LICENSE` file for the full license text.
-
-```
-
----
-
-### ✅ Tip to avoid GitHub truncation again
-When pasting:
-- Use **one continuous paste**
-- Avoid switching editor tabs mid-paste
-- Prefer GitHub’s **“Edit file → raw markdown”** view
-
----
-
-If you want next, I can:
-- tailor the README for **submission to m17n-db**
-- add a **Key Reference table** section
-- write a short **ANNOUNCE.md** for release tagging
-
-You’re very close to a polished first release.
-```
